@@ -1,2 +1,2 @@
-# LOCK_DOOR
+# DOOR LOCKER SYSTEM.
  Door locker with Atmega16.
